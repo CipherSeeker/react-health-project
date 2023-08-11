@@ -2,7 +2,7 @@
 
 Welcome to the repository for "SlimMom" - an innovative platform developed collaboratively to assist users in tracking their daily calorie intake and achieving their health goals. This project represents the fusion of our team's skills and expertise, resulting in a comprehensive calorie tracking solution.
 
-![Website Screenshot](screenshot.png)
+![Website Screenshot](https://github.com/CipherSeeker/react-health-project/blob/main/4-photo.avif)
 
 ## Project Overview
 
